@@ -60,7 +60,8 @@ export default {
 		},
 		"header": {
 			"title": {
-				"fontFamily": "\"Press Start 2P\", system-ui"
+				"fontFamily": "\"Press Start 2P\", system-ui",
+				"fontWeight": 400
 			},
 			"headline": {
 				"foreground": "var(--theme--primary)"
