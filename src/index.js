@@ -1,5 +1,5 @@
 export default {
-	id: 'adolencent-mutant-ninja-tortoises',
+	id: 'tmnt',
 	name: 'Adolescent Mutant Ninja Tortoises',
 	appearance: 'dark',
 	rules: {
